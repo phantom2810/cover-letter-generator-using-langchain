@@ -1,0 +1,6 @@
+gradio
+langchain
+PyMuPDF
+openai
+sentence-transformers
+faiss-cpu  # or faiss-gpu if you have GPU support
